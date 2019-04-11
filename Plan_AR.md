@@ -19,7 +19,7 @@ As most of my thesis will be concerned with phonology and phonetics of the aform
 Here's an exert from this chapter:
 >The most commonly occurring word order in English is subject-verb-object (SVO). In contrast, Japanese uses a different one, subject-object-verb (SOV). For instance, a sentence 
 “Fireworks bloomed in the night suddenly.” can be translated into
-「パッと花火が夜に咲いた。 」  (patto-hanabi-ga-yoru-ni-saita) which translates directly into “Suddenly fireworks in(to) the night bloomed.” The same sentence might be translated into English as “Fireworks bloomed in(to) the night suddenly.” The adverb “suddenly” may occur in English in both the initial and final position of a sentence, while in Japanese it cannot occur in the final position.
+「パッと花火が夜に咲いた。 」  (*patto-hanabi-ga-yoru-ni-saita*) which translates directly into “Suddenly fireworks in(to) the night bloomed.” The same sentence might be translated into English as “Fireworks bloomed in(to) the night suddenly.” The adverb “suddenly” may occur in English in both the initial and final position of a sentence, while in Japanese it cannot occur in the final position.
 
 ##### 1. Phonetics and Phonology of Japanese: phonetic and phonological factors
 ###### 1.1 Segmental Phonetics
