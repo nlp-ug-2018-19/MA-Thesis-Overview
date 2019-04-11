@@ -25,7 +25,7 @@ Here's an exert from this chapter:
 ###### 1.1 Segmental Phonetics
 ###### 1.1.1  Presentation of vowel charts in both languages
 To make the chapters easier to read I will attach charts of Japanese and English vowels and consonnats. The charts will be two seperate editted versions of the general international chart of sounds from [the IPA official website] (https://www.internationalphoneticassociation.org/content/full-ipa-chart).
-Here's one of the charts comparing vowels. The pink circles concern Japanese sounds and the dark blue ones English. ![The Vowels Chart] (https://static.wixstatic.com/media/becfd8_19d0b9864a544374ab2c2fc1c3dca37b~mv2.png/v1/fill/w_849,h_717,al_c,q_90,usm_0.66_1.00_0.01/becfd8_19d0b9864a544374ab2c2fc1c3dca37b~mv2.webp)
+Here's one of the charts comparing vowels. The pink circles concern Japanese sounds and the dark blue ones English. ![The Vowels Chart] (https://github.com/AgggR/MA_Plan/blob/master/IPA2005_3000px__VOWELS.png)
 ###### 1.1.2  Description of consonants in both languages
 ![The Consonant Chart] (https://static.wixstatic.com/media/becfd8_c9e8e4c3852c43f39acc85c0a9547964~mv2_d_2500_1680_s_2.png/v1/fill/w_1122,h_754,al_c,q_90,usm_0.66_1.00_0.01/becfd8_c9e8e4c3852c43f39acc85c0a9547964~mv2_d_2500_1680_s_2.webp)
 ###### 1.2 Prosody of Japanese
