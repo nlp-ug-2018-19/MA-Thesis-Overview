@@ -2,26 +2,26 @@
 _by Natalia Niemczyk_
 
 
-##### In my MA thesis, I will focus on the challenge of sentiment analysis and the way we express it.
-As the target of my research I have chosen movie reviews (specifically the Sci-Fi genre), taken from the [__Metacritic.com__](https://www.metacritic.com/movie) website. I have already succesfully gathered user reviews from said site with the use of the __ScraPy__ framework. ![alt text](https://steemitimages.com/640x0/https://scrapinghub.files.wordpress.com/2016/08/scrapy.png "Scrapy Logo")  
-Next, I intend to collect critic reviews from the links provided by Metacritic (for which I emplyed the **Ditto** program).  
+##### In my MA thesis I will focus on the challenge of sentiment analysis of movie reviews and the way both laymen and critics evaluate films.
+As the target of my research I have chosen movie reviews (specifically the Sci-Fi genre), taken from the [__Metacritic.com__](https://www.metacritic.com/movie) website. I have already successfully gathered user reviews from said site with the use of the __ScraPy__ framework. ![alt text](https://steemitimages.com/640x0/https://scrapinghub.files.wordpress.com/2016/08/scrapy.png "Scrapy Logo")  
+Next, I intend to collect critic reviews from the links provided by Metacritic (for which I employed the **Ditto** program).  
 
 In the coming weeks I intend to focus on writing the first chapter of my thesis.
 
 ##### In this table I'd like to introduce the basic information on the main points and the process of researching of my thesis.
-| Research question | How do opinions of critics and leymen differ? Sentimental analysis of online Science Fiction movie reviews. |
+| Research question | How do opinions of critics and laymen differ? Sentimental analysis of online Science Fiction movie reviews. |
 | :---: |:---|
 | Data source | Movie reviews gathered from metacritic.com from Science Fiction genre section |
 | Data collection method|Scraping of user reviews; copying critic reviews from sites linked on metacritic.com<br>Cleanup of user review data: removing HTML tags, reviews not written in English, noise<br>Corpus size of over 100 critic and 100 laymen reviews |
-|Analysis method: annotation or statistic? | Statistic:<br>Extracting sentiment phrases, finding the strength of semantic association between two words and average semantic orientation of the phrases |
-|Quantitative or qualitative research?|More focus on quantitative method|
+|Analysis method | I plan on employing a framework that will identify the needs and goals of the audience and whether they have been fulfilled by the movie in question (for example, the need of entertainment, knowledge, etc.). In order to do that, I will identify particular traits of product that evoke sentiment and link it to particular needs of the reviewers. I am not sure what exact tools I will use in order to perform this analysis yet |
+|Quantitative or qualitative research?|More focus on quantitative method—statistical data will be used to draw conclusions about positive/negative charge of reviews and to investigate common patterns and expressions used to evaluate motion pictures |
 
 
 ---
-##### Below I present the outline of the intitial chapter on axiology:
+##### Below I present the outline of the initial chapter on axiology:
 1. Axiology as an interdisciplinary study of values *(axiology and evaluation are the reason and vehicle for expressing opinions, the main focus on sentiment analysis)*
     * Evaluation as an innate capability of human mind—how language mirrors reality and our systems of values, the ‘Picture Theory’ of Language by Ludwig Wittgenstein
-    * Values thought universal started to be seen as negotiable and context-dependant
+    * Values thought universal started to be seen as negotiable and context-dependent
     * Axiology stems from ethics—a historical overview of philosophical approaches
     * Axiology in linguistics—Levinson points out it allows to find explanations for linguistic facts; evaluation as a narrative structure, evaluation as a necessary part of language and expression of emotions
     * Many faces of evaluation: overt/covert, various categories of evaluative act (judgement, irony, expression of feelings)
