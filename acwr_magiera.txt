@@ -1,0 +1,104 @@
+#1.2 Machine Translation & its up-to-date improvement.
+
+ 
+
+As stated by John Hutchins ‘machine
+translation (MT) refers to computerized systems responsible for the production
+of translations without human assistance. A distinction is commonly made
+between human-aided MT (HAMT) and machine-aided human translation (MAHT)”.
+(Hutchins 501) The latter one translates the text by using access to tools like
+>“on-line dictionaries, remote terminology databanks, transmission and reception
+of texts, stores of previously translated texts (‘translation memories’), and
+integrated resources, commonly referred to as translation workstations or
+translator workbenches.” (Hutchins 502) Despite HAMT and MAHT there exists also
+one more method of MT namely CAT, which stands for computer-aided translation.
+The main aim of machine translation is to create a decent translation without interference of a human; however,
+in most cases it is not possible since the output text has to be revised by a
+human translator anyway. In this case, the MT does not differ from human-made
+translations since both has to be revised, and corrected by a third party in
+order to avoid mistakes; however, types of those mistakes are different because
+in case of MT they are of much greater importance for instance ‘incorrect
+prepositions, articles,  pronouns, verb
+tenses etc.” (Hutchins 502) Nonetheless, machine translation does not always
+have to be error-free since someone may use it in order to get familiar just
+with the main subject of a given text, and in those cases the raw output works
+just fine. The quality of machine translation may be enriched in three ways.
+Firstly by marking (pre-editing) the input text to ‘indicate prefixes,
+suffixes, word divisions, phrase and clause boundaries, or grammatical
+categories’ (Hutchins 502) for example by distinguishing two homonymous or
+homographic words in order to avoid ambiguity in the output text. The second,
+and more common, way is >‘the control of the vocabulary and of the grammatical
+structures of texts submitted for translation’. (Hutchins 502) Finally yet
+importantly, the systems may be specifically set for one area of a subject
+(sublanguages). Machine translations can be divided in two ways: according to
+number of languages, one may distinguish ‘bilingual’ and ‘multilingual’
+systems, and according to direction, MT may be ‘unidirectional’ and
+‘bidirectional’. Bilingual translations occur only between two languages, and
+are both unidirectional and multidirectional. One may distinguish three
+different types of translations. First, which is the oldest one, is called
+direct translation or according to Hutchins “binary translation”. In this type,
+the text is converted directly from one “source” text to the other “target”
+text. The main purpose of this translation is to limit the required amount of
+semantic and syntactic analysis in order to avoid ambiguity of a source
+language. Another MT method is ‘interlingua approach’. This method bases on
+assumption that >‘it is possible to convert SL texts into semantico-syntactic
+representations which are common to more than one language (but not necessarily
+‘universal’ in any sense).’ (Hutchins 503) In this approach, translation is
+divided into two stages: first, which converts the source language into
+interlingua form, and second, which changes the interlingua form to target
+language. The main advantage of this method ‘is economy of effort in a
+multilingual environment, i.e an analysis program for a particular source
+language can be used for more than one target language, and a generation
+program for a particular target language can be used again’ (Hutchins 503).
+However, the advantage of this approach is on the other hand its main
+disadvantage since it increases its density. Third method is transfer. In this
+strategy, there are three different stages. First stage >‘converts source
+language into abstract source language-oriented representations’, second stage
+‘converts these into equivalent target language-oriented representations’, and
+the third one ‘generates the final target language texts.’ (Hutchins 504) The
+process of analysis within can be divided into several stages: morphological,
+where word endings, and their compounds are identified, syntactic, during which
+‘phrase structures, dependency, subordination etc.’ (Hutchins, 504) are
+analyzed, semantic, which identifies ‘resolution of lexical and structural
+ambiguities’. (Hutchins, 504) The synthesis phase can as well undergo three
+stages: semantic, which is responsible for selection of appropriate lexical and
+structural form, syntactic, which generates required structures of phrase or
+sentence, and morphological, which generates correct forms of words. 
+
+[]![Different types of rule based machine translations(https://www.researchgate.net/figure/Different-methods-of-Rule-based-machine-translation_fig1_275947715)
+
+                                               
+
+However, in older versions of ‘direct translation’ systems the above components
+were nor always divided as clearly as it is with newer systems. The previous
+versions of systems used to mix data from dictionaries with grammatical ones
+and thus latter in latter system different degrees modularity was introduced ‘
+so that system components, data, and programs can be adapted and changed with
+minimal damage to overall efficiency’ (Hutchins, 504)
+
+The introduction of modularity in older systems led to introduction of
+‘representations and processing rules for reversibility, i.e. the data
+transformations used in the analysis of a particular language are applied in
+reverse when generating texts in that language.’ (Hutchins, 504)  The ‘direct translation’ is characteristic to
+the ‘first generation’ of machine translation which lasted ‘from the 1950s to
+the mid-1970s’. Other two, interlingua and transfer-based system are associated
+with the ‘second generation’ (during the 1970s and 1980s). (Hutchins, 504) Both
+of those generations are strictly connected with rules, ‘(for morphology,
+syntax, lexical selection, semantic analysis, and generation)’ and that is why
+they are referred to as rule-based systems, which differentiates them from more
+up-to-date corpus-based systems. The main issue concerning translation systems
+is ‘the resolution of lexical and structural ambiguities, both within languages
+(monolingual ambiguity) and between languages (bilingual ambiguity).’
+(Hutchins, 505) Monolingual disambiguation are present in all natural
+languages, and it makes a ‘difficulty in translation since there may be more
+than one possible target language equivalent’. (Hutchins, 505) Not only the
+number of target language may be problematic, but also homographs and polysemes,
+which have to be determined before the translation is made. Bilingual
+ambiguities, on the other hand, happen when ‘the target language has
+distinctions absent in the source language’ (Hutchins, 505) for example
+‘English eat can be German essen or fressen; English wall can be French mur or
+paroi […]’ (Hutchins, 505). One may avoid such choices by picking a single,
+most acceptable equivalent from a target language for a source language or by including
+phrases which correspond to a target language’s idioms or compounds, which will
+allow to differentiate the meaning of the very same word on its own, and
+included in an idiomic or compound expression. 
