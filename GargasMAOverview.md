@@ -1,3 +1,4 @@
+
 ﻿# The Acoustics of Smiling Voice
 
 ## **Abstract**
@@ -8,19 +9,16 @@ General information about the aim of the thesis, introduction to the subject of 
 
 ## **Chapter 1. Theory**
 
-1.Phonetics
-1.1 Articulatory Phonetics
+1. Phonetics
+1.1  Articulatory Phonetics
 1.1.1 Segmental Phonetics
-
-1.1.2 Prosody
-
-1.2 Acoustic Phonetics
+1.1.2.Prosody
+1.2.Acoustic Phonetics
 
 2. Smile and emotions
 
 3. Smiling Voice
-
-3.1 Production of Smiling Voice
+3.1.Production of Smiling Voice
 
 ## **Chapter 2. Methodology**
 
@@ -32,8 +30,8 @@ Example output:
 
 Analyzing the spectrographs and investigating whether the speaker was smiling or not and marking the differences between the Smiling Voice and Non-smiling one.
 Here I provide a spectrograph image of the word "Poniedziałek":
-![enter image description here](https://i.pinimg.com/564x/ca/a7/c8/caa7c83862bcc7ae66b4fcc5f861ed54.jpg)
-In the analysis, I will compare the values obtained from all the spectographs of all forty words, study the differences between pairs of words, look for the patterns and on what exactly a smile affects the most. 
+![Spectograph for the word "Poniedziałek"](https://i.pinimg.com/564x/ca/a7/c8/caa7c83862bcc7ae66b4fcc5f861ed54.jpg)
+In the analysis, I will compare the values obtained from all the spectrographs of all forty words, study the differences between pairs of words, look for the patterns and on what exactly a smile affects the most. 
 ## **Conclusion**
 I hope that the outcome of my analysis will meet my requirements and I could evidence that we can hear a smile.
 
