@@ -2,7 +2,7 @@
 The general aim of my thesis is to analyse the phonetic characteristics of Spanish-accented English in connected speech and allomorphs. So far, a number of articles on the topic has been written. What I aim to achieve is to show how the study may be conducted using Speech Recognition Toolkit in Python. In order to make sure the the output from the Python's program is valid, the results will be once more analyzed in PRAAT. 
 
 ## Chapter 1  
-**Theoretical part**  
+**Theoretical part:**  
 This chapter will include a description of what has been done so far in terms of analyzing Spanish-accented English. The list of phonemes which are pronounced differently in Spanish and English will be included and thus the major target of analysis will be exposed. Analysis of consonants and vowels will consist of two separate paragraphs.  
 Pronouncation variations of English vowels by native speakers of Spanish are listed:
 
@@ -29,11 +29,11 @@ Pronouncation variations of English vowels by native speakers of Spanish are lis
 [Pronunciation variations of Spanish-accented English spoken by young children](https://www.researchgate.netpublication221479581_Pronunciation_variations_of_Spanish-accented_English_spoken_by_young_children "To the site")
 
 ## Chapter 2  
-**Methodology**  
+**Methodology:**  
 This chapter will explain how the analysis of Spanish-accented English was conducted - the whole process will be explained thoroughly. As regards the informants, there will be six adult native speakers of Spanish from the Catalan region, three of them will be males and three females. Each speaker will be given a set of 50 single words in English containing vowels and consontants which are phonetically problematic for native speakers of Spanish and a text consisting of ca. 100 words in order to analyse the characteristics of connected speech.  
 
 ## Chapter 3  
-**Analysis**  
+**Analysis:**  
 The focus of this chapter will be to analyze the results of the study, to compare them with previous studies and to highlight any new discoveries.
 
 **Initial bibliography:**   
