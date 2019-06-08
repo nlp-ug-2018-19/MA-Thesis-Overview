@@ -1,4 +1,5 @@
 # Analysis of Spanish-accented English in Python Speech Recognition Toolikt  
+**Prototypical abstract:**   
 The general aim of my thesis is to analyse the phonetic characteristics of Spanish-accented English in connected speech and allomorphs. So far, a number of articles on the topic has been written. What I aim to achieve is to show how the study may be conducted using Speech Recognition Toolkit in Python. In order to make sure the the output from the Python's program is valid, the results will be once more analyzed in PRAAT. 
 
 ## Chapter 1  
@@ -26,7 +27,9 @@ Pronouncation variations of English vowels by native speakers of Spanish are lis
 
 >Rule 10. Unaspirated /p/ (pill), /t/ (till), /k/ (kill) in word initial position.
 
-[Pronunciation variations of Spanish-accented English spoken by young children](https://www.researchgate.netpublication221479581_Pronunciation_variations_of_Spanish-accented_English_spoken_by_young_children "To the site")
+[Above rules come from *Pronunciation variations of Spanish-accented English spoken by young children*](https://www.researchgate.netpublication221479581_Pronunciation_variations_of_Spanish-accented_English_spoken_by_young_children "To the site")
+
+![Chart description of the Spanish vowels and consonants](http://liceu.uab.es/~joaquim/phonetics/fon_esp/Quilis_Coment_Alofon.jpg)
 
 ## Chapter 2  
 **Methodology:**  
@@ -35,6 +38,9 @@ This chapter will explain how the analysis of Spanish-accented English was condu
 ## Chapter 3  
 **Analysis:**  
 The focus of this chapter will be to analyze the results of the study, to compare them with previous studies and to highlight any new discoveries.
+
+<br />
+
 
 **Initial bibliography:**   
 
