@@ -29,6 +29,7 @@ Pronouncation variations of English vowels by native speakers of Spanish are lis
 
 [Above rules come from *Pronunciation variations of Spanish-accented English spoken by young children*](https://www.researchgate.netpublication221479581_Pronunciation_variations_of_Spanish-accented_English_spoken_by_young_children "To the site")
 
+#### Chart description of the Spanish vowels and consonants:
 ![Chart description of the Spanish vowels and consonants](http://liceu.uab.es/~joaquim/phonetics/fon_esp/Quilis_Coment_Alofon.jpg)
 
 ## Chapter 2  
@@ -37,7 +38,7 @@ This chapter will explain how the analysis of Spanish-accented English was condu
 
 ## Chapter 3  
 **Analysis:**  
-The focus of this chapter will be to analyze the results of the study, to compare them with previous studies and to highlight any new discoveries.
+The focus of this chapter will be to analyze results of the study, to compare them with previous studies and to highlight any new discoveries.
 
 <br />
 
