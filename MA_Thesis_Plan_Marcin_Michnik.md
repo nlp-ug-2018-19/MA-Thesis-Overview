@@ -1,30 +1,33 @@
-##Title: Pure vowel naturalness of chosen Text-to-Speech synthesisers.
-
-###Introduction
-
+## Title: Pure vowel naturalness of chosen Text-to-Speech synthesisers.
+<br/>
+### Introduction
+<br/>
 This paper is supposed to show the differences between old speech synthesisers 
-([StevenHawking TTS](https://lingojam.com/StephenHawkingVoiceGenerator)) and the modern ones 
+([StephenHawking TTS](https://lingojam.com/StephenHawkingVoiceGenerator)) and the modern ones 
 ([ISpeech](https://www.ispeech.org/)).
 
-###Chapter 1.Literature on speech synthesizers.
+### Chapter 1.Literature on speech synthesizers.
+<br/>
 This chapter will contain the most important information about the progress in speech
 synthesis up until contemporary times. Here will be mentioned works such as:
 * 'Progress in Speech Synthesis' by Jan P. van Santen, Jan P.H. van Santen, Richard Sproat, Joseph Olive and Julia Hirschberg
 * 'An Introduction to Text-to-Speech Synthesis' by Thierry Dutoit
-###Chapter 2.Articulatory and phonetic description of vowels and their allophonic characteristics.
 
-###Chapter 3.Methodology on evaluating naturalness of speech synthesizers.
-
-###Chapter 4.Demonstration of speech samples of chosen TTS systems.
-   In this chapter I will show analyses of audio clips taken from **StevenHawking TTS** and **ISpeech**.
-I will be using praat software as a tool for the analysis. Here is the word "bad" in 
+### Chapter 2.Articulatory and phonetic description of vowels and their allophonic characteristics.
+<br/>
+### Chapter 3.Methodology on evaluating naturalness of speech synthesizers.
+<br/>
+### Chapter 4.Demonstration of speech samples of chosen TTS systems.
+<br/>
+   In this chapter I will show analyses of audio clips taken from **StephenHawking TTS** and **ISpeech**.
+I will be using praat software as a tool for the analysis. Here is the word "bad" (StephenHawking synthesiser) in 
 praat:
 ![praat 'bad'](https://i.imgur.com/hekL2Dh.png)
 
 
 
-###Conclusions
+### Conclusions
 
-####Bibliography:
+#### Bibliography:
 * Dutoit, Thierry. An Introduction to Text-to-Speech Synthesis. Springer Science & Business Media, 2001.
 * Santen, Jan P. van, Jan P. H. van Santen, Richard Sproat, Joseph Olive, i Julia Hirschberg. Progress in Speech Synthesis. Springer Science & Business Media, 1997.
