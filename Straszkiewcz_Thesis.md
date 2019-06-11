@@ -37,12 +37,20 @@ The study will be carried out with the use of PRAAT, a computer software for spe
     * formant transitions
     * formant properties
 
-   ![alt text](https://github.com/kingastraszkiewicz/Project-Sentiment-Analysis/blob/master/2019-06-11_17h01_05.png)
-   ![alt text](https://github.com/kingastraszkiewicz/Project-Sentiment-Analysis/blob/master/2019-06-11_17h03_52.png)
-   ![alt text](https://github.com/kingastraszkiewicz/Project-Sentiment-Analysis/blob/master/2019-06-11_17h05_28.png)
-   ![alt text](https://github.com/kingastraszkiewicz/Project-Sentiment-Analysis/blob/master/2019-06-11_17h06_22.png)
-   ![alt text](https://github.com/kingastraszkiewicz/Project-Sentiment-Analysis/blob/master/2019-06-11_17h11_16.png)
-   ![alt text](https://github.com/kingastraszkiewicz/Project-Sentiment-Analysis/blob/master/2019-06-11_16h43_25.png)
-   ![alt text](https://github.com/kingastraszkiewicz/Project-Sentiment-Analysis/blob/master/2019-06-11_16h46_35.png)
-   ![alt text](https://github.com/kingastraszkiewicz/Project-Sentiment-Analysis/blob/master/2019-06-11_16h47_11.png)
-   ![alt text](https://github.com/kingastraszkiewicz/Project-Sentiment-Analysis/blob/master/2019-06-11_16h47_50.png)
+   ![alt text](https://raw.githubusercontent.com/kingastraszkiewicz/Project-Sentiment-Analysis/master/2019-06-11_17h01_05.png)
+   
+   ![alt text](https://raw.githubusercontent.com/kingastraszkiewicz/Project-Sentiment-Analysis/master/2019-06-11_17h03_52.png)
+   
+   ![alt text](https://raw.githubusercontent.com/kingastraszkiewicz/Project-Sentiment-Analysis/master/2019-06-11_17h05_28.png)
+   
+   ![alt text](https://raw.githubusercontent.com/kingastraszkiewicz/Project-Sentiment-Analysis/master/2019-06-11_17h06_22.png)
+   
+   ![alt text](https://raw.githubusercontent.com/kingastraszkiewicz/Project-Sentiment-Analysis/master/2019-06-11_17h11_16.png)
+   
+   ![alt text](https://raw.githubusercontent.com/kingastraszkiewicz/Project-Sentiment-Analysis/master/2019-06-11_16h43_25.png)
+   
+   ![alt text](https://raw.githubusercontent.com/kingastraszkiewicz/Project-Sentiment-Analysis/master/2019-06-11_16h46_35.png)
+   
+   ![alt text](https://raw.githubusercontent.com/kingastraszkiewicz/Project-Sentiment-Analysis/master/2019-06-11_16h47_11.png)
+   
+   ![alt text](https://raw.githubusercontent.com/kingastraszkiewicz/Project-Sentiment-Analysis/master/2019-06-11_16h47_50.png)
